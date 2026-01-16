@@ -19,8 +19,10 @@ Interested in applying analytics and AI to solve real-world problems
 
 🛠️ Skills
 
-  Programming Languages: Python, Java, HTML, CSS, Javascript, PHP, SQL 
+  Programming Languages: Python, Java, HTML, CSS, Javascript, PHP, SQL
+  
   Tools: Streamlit, Git & GitHub, Jupyter Notebook, Visual Studio Code(VS Code)
+  
   Frameworks: Streamlit
 
 📊 Data Science
