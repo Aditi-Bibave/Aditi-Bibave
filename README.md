@@ -4,6 +4,7 @@
 📊 Aspiring Data Science & AI Professional
 💡 Passionate about data-driven problem solving and continuous learning
 
+
 🚀 About Me
 
 Currently Final year student pursuing Computer Engineering
@@ -17,6 +18,7 @@ Actively building skills in Python, Data Science, Statistics, and Artificial Int
 Interested in applying analytics and AI to solve real-world problems
 
 🛠️ Skills
+
   Programming Languages: Python, Java, HTML, CSS, Javascript, PHP, SQL 
   Tools: Streamlit, Git & GitHub, Jupyter Notebook, Visual Studio Code(VS Code)
   Frameworks: Streamlit
@@ -113,6 +115,7 @@ Improving problem-solving and analytical skills
 🤝 Let’s Connect
 
 Email: aditi.bibave01@gmail.com
+
 LinkedIn: www.linkedin.com/in/aditi-b-a293b6308
 
 
